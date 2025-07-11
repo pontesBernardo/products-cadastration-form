@@ -8,10 +8,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "🛍️ Cadastro de Produtos",
   "dependencies": {
     "@tailwindcss/cli": "^4.1.11",
     "@tailwindcss/vite": "^4.1.11",
     "tailwindcss": "^4.1.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pontesBernardo/products-cadastration-form.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pontesBernardo/products-cadastration-form/issues"
+  },
+  "homepage": "https://github.com/pontesBernardo/products-cadastration-form#readme"
 }
